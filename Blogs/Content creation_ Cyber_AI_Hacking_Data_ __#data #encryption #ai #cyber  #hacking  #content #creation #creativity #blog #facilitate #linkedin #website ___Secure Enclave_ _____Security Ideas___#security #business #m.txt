@@ -92,65 +92,59 @@ Managed service provider- Msp
 
 
 
+3-16-23
 
+SOAR: The Firefighting Powerhouse of Incident Response
 
-3/16/23
+Key terms:
 
-SOAR
+SOAR - Security Orchestration Automation Response: incident response taken to a higher level, enhancing the efficiency and effectiveness of security teams
 
-Key terms: 
+Hack - Unauthorized access to a computer system or data, often with malicious intent
 
+Incident response - The process of identifying, investigating, and mitigating security incidents in a timely manner
 
+Mean time to detect - The average time between when an attack occurs and when it is detected, currently averaging 200 days
 
+Mean time to resolution - The average time from detection to resolution, currently averaging 70 days
 
-Hack-
+Reconnaissance - The act of observing a target for weaknesses or vulnerabilities, typically the initial step for a malicious actor
 
+Boom - The moment when an attack occurs
 
+Threat hunting - Proactively searching for vulnerabilities to reduce the mean time to detection
 
-Incident response-
+XDR - Extended Detection and Response: a security solution that combines and correlates data from multiple sources to improve detection and response capabilities
 
+SIEM - Security Information and Event Management: a software solution that aggregates and analyzes security data from various sources, generating alerts for potential threats
 
+Artifacts - Indicators of compromise and information about an incident
 
-Mean time to detect-avg 200 days. The time between when the attack occurs and when we become aware of the attack
+Zero days - Vulnerabilities in software or hardware that are unknown to the developers, making them highly prized by attackers
 
-Mean time to resolution- avg 70 days
+Dynamic playbook - A flexible and adaptive set of response actions, tailored to the specific incident
 
-
-Reconnaissance-observing for weaknesses or vulnerabilities in the context of an incident. Typical Initial step for a bad actor 
-
-
-Boom-when the attack occurs
-
-
-Threat hunting- reduces mean time to response 
-
-XDR-
-
-Siem-
-
-Zero days-
-
-Dynamic playbook- 
-
-Black swan-
-
-
+Black swan - An unpredictable and highly impactful event, often difficult to predict and prepare for
 
 Intro:
 
-	◦	“Fire! Fire! Fire!” Is what I would yell while running for my life if I was in an actual fire(probably should add in a couple high pitched, terrified yelps for help). But I’ll admit i’ve never experienced a home catching fire before. However, I can imagine. I can imagine the helpless feeling. I can imagine the hopeful resignation as I’m forced to wait desperately on the sound of that blaring firetruck’s sirens. I can imagine the relief washing over me as someone wearing a red hat and a yellow jacket arrive to save me and my belongings from imminent doom.  Someone with equipment. And powerful equipment. That’s how understand SOAR. In this analogy the fire truck, with it’s ability to pump incredible amounts of water, is like SOAR. Once attached to a water source, or in the case of SOAR, heaps of security data, the system can be deftly handled by a fireman (or in our case a incident response analyst) to subdue the worst of fires(security breaches). 
+“Fire! Fire! Fire!” Is what I would yell while running for my life if I was in an actual fire (I should probably add a couple of high-pitched, terrified yelps for help to be accurate). I’ll admit I’ve never actually experienced a home catching fire before, but I can imagine it. I can imagine that helpless feeling. I can imagine my hope for help incinerating alongside the burning house. I can imagine futile resignation setting in as I’m forced to wait desperately on the sound of blaring firetruck sirens. I can imagine the relief washing over me as someone wearing a red hat and a yellow jacket arrives, desperate to save me and my belongings from our imminent doom. The part of this imagined scene I want to hone in on is this person. This person is not just any person - he's a firefighter equipped with the best tools to handle this disaster. And the equipment? It's the ideal equipment; it's powerful equipment. This imagery is how I understand SOAR. In my mind, the analogy of the fire truck, with its ability to pump incredible amounts of water, is like SOAR. Once attached to a water source, or in the case of SOAR, heaps of security data, the system can be handled deftly by a fireman (or in our case, an incident response analyst) to subdue the worst of fires (security breaches).
 
+Idea 1: Why SOAR is the optimal solution
 
+The reason we use SOAR is due to its orchestration of automation, striking a balance between fully automated incident response and purely manual work. SOAR empowers security teams to handle incidents effectively and efficiently, freeing up their time to focus on higher-level tasks and reducing the chances of human error.
 
+Idea 2: SOAR in action
 
-Idea 1:
+In an actual incident, we have a database, a SIEM, and an XDR system that works with real-time alerts. Finally, we have our SOAR system. When the database gets breached, it sends an alert to the SIEM. The SIEM processes the alert and either manages it or sends it to the XDR. The XDR sends a message to the SOAR, which opens a case. The XDR feeds artifacts to the SOAR, which then assigns the case, along with the artifacts, to an analyst. This streamlined process ensures that relevant information is passed along efficiently, enabling the analyst to make informed decisions and respond to the incident effectively.
 
+Idea 3: The analyst and the dynamic playbook
 
-Idea 2:
+The relationship between the analyst and the SOAR system is crucial. As the analyst investigates the incident, they rely on a dynamic playbook, which is a flexible and adaptive set of response actions tailored to the specific situation. The dynamic playbook guides the analyst through the necessary steps to address the incident, while also allowing for adjustments based on the analyst's expertise and the evolving circumstances. This approach ensures a comprehensive and effective response, leveraging both the power of automation and the human intuition of the analyst.
 
-Idea 3:
+TL;DW:
 
-TLDW:
+SOAR (Security Orchestration Automation Response) is a powerful system that enhances the efficiency and effectiveness of incident response, striking a balance between automation and human expertise. In an actual security incident, SOAR streamlines the process, working in tandem with SIEM and XDR systems to provide analysts with the information they need to make informed decisions. The dynamic playbook is a key component of this process, guiding analysts through a flexible and adaptive response plan tailored to the specific incident.
 
 Links:
 
