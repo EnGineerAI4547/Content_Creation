@@ -1,0 +1,211 @@
+Content creation: Cyber/AI/Hacking/Data
+ 
+
+#data #encryption #ai #cyber  #hacking  #content #creation #creativity #blog #facilitate #linkedin #website 
+
+
+Secure Enclave? 
+
+
+
+
+Security Ideas:
+
+#security #business #monitoring #technology 
+
+Bio signatures and digital signatures for automatic door opening
+
+
+
+Date:
+
+Key terms:
+
+
+Intro:
+
+
+
+
+
+Idea 1:
+
+
+Idea 2:
+
+Idea 3:
+
+TLDW:
+
+
+
+
+
+Date: 3-8-23
+
+Intro: IBM: 6 steps to protecting your data
+
+
+Idea 1:
+
+
+Idea 2:
+
+Idea 3:
+
+TLDW:
+
+
+
+
+
+
+
+
+Links:
+
+
+
+Date:
+
+Key Terms:
+
+Dwell time- amount of time in your network undetected= undetected mean time of detection(average 200 days) + mean time of repair(average 70days) mtd + mtr average 56 days 
+Endpoint-
+EDR-endpoint detection and response happens after infection. Compromised of protection phase (50-60% accuracy)and detection phase(remaining 40-50%)
+XDR- extended detection, SaaS based threat detection and incident response tool that combines security tools for comprehensive operations (Integration, analysis, response)
+Normalization
+Artificial Intelligence
+MDR- managed detection and response. 24/7 monitoring, detection, and lightweight response services…leveraging a combination if techniques” Gartner. Security analytics, proactive threat hunting. Automated incident response using soar. 
+NAV- network analysis and visibility tools
+NTA- network traffic analysis tools
+Managed EDR
+MDR + in person response 
+Signature-
+Behavior- 
+SOAR-
+Preinfection- 50-60% accuracy and done by ML usually within Malware protection
+Post infection- includes forensics
+YARA rules
+Meta data
+Managed service provider- Msp 
+
+
+
+
+
+3/16/23
+
+SOAR
+
+Key terms: 
+
+
+
+
+Hack-
+
+
+
+Incident response-
+
+
+
+Mean time to detect-avg 200 days. The time between when the attack occurs and when we become aware of the attack
+
+Mean time to resolution- avg 70 days
+
+
+Reconnaissance-observing for weaknesses or vulnerabilities in the context of an incident. Typical Initial step for a bad actor 
+
+
+Boom-when the attack occurs
+
+
+Threat hunting- reduces mean time to response 
+
+XDR-
+
+Siem-
+
+Zero days-
+
+Dynamic playbook- 
+
+Black swan-
+
+
+
+Intro:
+
+	◦	“Fire! Fire! Fire!” Is what I would yell while running for my life if I was in an actual fire(probably should add in a couple high pitched, terrified yelps for help). But I’ll admit i’ve never experienced a home catching fire before. However, I can imagine. I can imagine the helpless feeling. I can imagine the hopeful resignation as I’m forced to wait desperately on the sound of that blaring firetruck’s sirens. I can imagine the relief washing over me as someone wearing a red hat and a yellow jacket arrive to save me and my belongings from imminent doom.  Someone with equipment. And powerful equipment. That’s how understand SOAR. In this analogy the fire truck, with it’s ability to pump incredible amounts of water, is like SOAR. Once attached to a water source, or in the case of SOAR, heaps of security data, the system can be deftly handled by a fireman (or in our case a incident response analyst) to subdue the worst of fires(security breaches). 
+
+
+
+
+Idea 1:
+
+
+Idea 2:
+
+Idea 3:
+
+TLDW:
+
+Links:
+
+https://youtu.be/k7ju95jDxFA
+
+2-25-23
+Cyber trends 2023
+https://youtu.be/uAHFNuDlcRw
+
+
+-Ransom ware
+-data breach
+-MFA 
+-IoT
+-adversarial AI 
+-DB poisoning
+-Deep fakes
+-Quantum computers 
+-skills gap 
+
+
+2-24-23:
+
+Middleware, Restful API
+https://youtu.be/1oWPUpMheGk
+
+
+
+2-23-23:
+
+Quantum Machine Learning
+
+https://youtu.be/NqHKr9CGWJ0
+
+
+Zero Trust
+
+
+2-22-23
+PKI IBM
+
+Key terms:
+PKI
+Web browser
+Symmetric cryptography
+Asymmetric cryptography 
+Key pair
+Diffie Hellman Key Exchange 
+Certificate
+Digital signature
+
+Introduction: 
+What is behind the little lock thing on your web browser? If you’re as big a nerd as me keep reading 
+
+TLDR:
+1.) 
+Planning for AGI and beyond
+Building a Home Cybersecurity Lab
